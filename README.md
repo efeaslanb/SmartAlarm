@@ -12,3 +12,4 @@ A remote-controlled Arduino alarm clock with an LCD timer, brightness control vi
 - Runs in Arduino C++ when powered by USB or outlet adapter  
 - Compact, custom 3D-printed enclosure  
 
+👉🏼 Check out my [Portfolio](https://your-portfolio-link.com) for the full project details.
